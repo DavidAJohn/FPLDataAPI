@@ -1,0 +1,2291 @@
+[
+  {
+    "Id": 1,
+    "Name": "Aaron Connolly",
+    "TeamId": 4,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Aaron Cresswell",
+    "TeamId": 19,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 3,
+    "Name": "Aaron Mooy",
+    "TeamId": 4,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Aaron Ramsdale",
+    "TeamId": 3,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Aaron Wan-Bissaka",
+    "TeamId": 12,
+    "Goals": 0,
+    "Assists": 4
+  },
+  {
+    "Id": 6,
+    "Name": "Abdoulaye Doucoure",
+    "TeamId": 18,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 7,
+    "Name": "Adam Lallana",
+    "TeamId": 10,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 8,
+    "Name": "Adam Masina",
+    "TeamId": 18,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 9,
+    "Name": "Adam Smith",
+    "TeamId": 3,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 10,
+    "Name": "Adam Webster",
+    "TeamId": 4,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 11,
+    "Name": "Adama Traore",
+    "TeamId": 20,
+    "Goals": 4,
+    "Assists": 9
+  },
+  {
+    "Id": 12,
+    "Name": "Ahmed El Mohamady",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 13,
+    "Name": "Ainsley Maitland-Niles",
+    "TeamId": 1,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 14,
+    "Name": "Alex Iwobi",
+    "TeamId": 8,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 15,
+    "Name": "Alex Oxlade-Chamberlain",
+    "TeamId": 10,
+    "Goals": 4,
+    "Assists": 1
+  },
+  {
+    "Id": 16,
+    "Name": "Alexander Tettey",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 17,
+    "Name": "Alexandre Lacazette",
+    "TeamId": 1,
+    "Goals": 10,
+    "Assists": 4
+  },
+  {
+    "Id": 18,
+    "Name": "Alireza Jahanbakhsh",
+    "TeamId": 4,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 19,
+    "Name": "Alisson",
+    "TeamId": 10,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 20,
+    "Name": "Allan Saint-Maximin",
+    "TeamId": 13,
+    "Goals": 3,
+    "Assists": 4
+  },
+  {
+    "Id": 21,
+    "Name": "Andre Gomes",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 22,
+    "Name": "Andre Gray",
+    "TeamId": 18,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 23,
+    "Name": "Andreas Pereira",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 3
+  },
+  {
+    "Id": 24,
+    "Name": "Andrew Robertson",
+    "TeamId": 10,
+    "Goals": 2,
+    "Assists": 12
+  },
+  {
+    "Id": 25,
+    "Name": "Andrey Yarmolenko",
+    "TeamId": 19,
+    "Goals": 5,
+    "Assists": 1
+  },
+  {
+    "Id": 26,
+    "Name": "Andros Townsend",
+    "TeamId": 7,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 27,
+    "Name": "Andy Carroll",
+    "TeamId": 13,
+    "Goals": 0,
+    "Assists": 4
+  },
+  {
+    "Id": 28,
+    "Name": "Angelo Ogbonna",
+    "TeamId": 19,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 29,
+    "Name": "Anthony Gordon",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 30,
+    "Name": "Anthony Martial",
+    "TeamId": 12,
+    "Goals": 17,
+    "Assists": 6
+  },
+  {
+    "Id": 31,
+    "Name": "Antonio Rudiger",
+    "TeamId": 6,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 32,
+    "Name": "Anwar el Ghazi",
+    "TeamId": 2,
+    "Goals": 4,
+    "Assists": 4
+  },
+  {
+    "Id": 33,
+    "Name": "Arthur Masuaku",
+    "TeamId": 19,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 34,
+    "Name": "Ashley Barnes",
+    "TeamId": 5,
+    "Goals": 6,
+    "Assists": 0
+  },
+  {
+    "Id": 35,
+    "Name": "Ashley Westwood",
+    "TeamId": 5,
+    "Goals": 2,
+    "Assists": 6
+  },
+  {
+    "Id": 36,
+    "Name": "Aymeric Laporte",
+    "TeamId": 11,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 37,
+    "Name": "Ayoze Perez",
+    "TeamId": 9,
+    "Goals": 8,
+    "Assists": 4
+  },
+  {
+    "Id": 38,
+    "Name": "Ben Chilwell",
+    "TeamId": 9,
+    "Goals": 3,
+    "Assists": 3
+  },
+  {
+    "Id": 39,
+    "Name": "Ben Mee",
+    "TeamId": 5,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 40,
+    "Name": "Benjamin Mendy",
+    "TeamId": 11,
+    "Goals": 0,
+    "Assists": 3
+  },
+  {
+    "Id": 41,
+    "Name": "Bernard",
+    "TeamId": 8,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 42,
+    "Name": "Bernardo Silva",
+    "TeamId": 11,
+    "Goals": 6,
+    "Assists": 7
+  },
+  {
+    "Id": 43,
+    "Name": "Billy Sharp",
+    "TeamId": 15,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 44,
+    "Name": "Bj�rn Engels",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 45,
+    "Name": "Brandon Williams",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 46,
+    "Name": "Bruno Fernandes",
+    "TeamId": 12,
+    "Goals": 9,
+    "Assists": 7
+  },
+  {
+    "Id": 47,
+    "Name": "Bukayo Saka",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 5
+  },
+  {
+    "Id": 48,
+    "Name": "Caglar Soyuncu",
+    "TeamId": 9,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 49,
+    "Name": "Callum Hudson-Odoi",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 5
+  },
+  {
+    "Id": 50,
+    "Name": "Callum Robinson",
+    "TeamId": 15,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 51,
+    "Name": "Callum Wilson",
+    "TeamId": 3,
+    "Goals": 8,
+    "Assists": 1
+  },
+  {
+    "Id": 52,
+    "Name": "Calum Chambers",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 53,
+    "Name": "Cedric Soares",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 54,
+    "Name": "Cenk Tosun",
+    "TeamId": 7,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 55,
+    "Name": "Cesar Azpilicueta",
+    "TeamId": 6,
+    "Goals": 2,
+    "Assists": 6
+  },
+  {
+    "Id": 56,
+    "Name": "Charlie Taylor",
+    "TeamId": 5,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 57,
+    "Name": "Che Adams",
+    "TeamId": 16,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 58,
+    "Name": "Cheikhou Kouyate",
+    "TeamId": 7,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 59,
+    "Name": "Chris Basham",
+    "TeamId": 15,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 60,
+    "Name": "Chris Mepham",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 61,
+    "Name": "Chris Wood",
+    "TeamId": 5,
+    "Goals": 14,
+    "Assists": 1
+  },
+  {
+    "Id": 62,
+    "Name": "Christian Atsu",
+    "TeamId": 13,
+    "Goals": 0,
+    "Assists": 3
+  },
+  {
+    "Id": 63,
+    "Name": "Christian Benteke",
+    "TeamId": 7,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 64,
+    "Name": "Christian Eriksen",
+    "TeamId": 17,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 65,
+    "Name": "Christian Kabasele",
+    "TeamId": 18,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 66,
+    "Name": "Christian Pulisic",
+    "TeamId": 6,
+    "Goals": 9,
+    "Assists": 4
+  },
+  {
+    "Id": 67,
+    "Name": "Christoph Zimmermann",
+    "TeamId": 14,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 68,
+    "Name": "Ciaran Clark",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 69,
+    "Name": "Connor Wickham",
+    "TeamId": 7,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 70,
+    "Name": "Conor Hourihane",
+    "TeamId": 2,
+    "Goals": 3,
+    "Assists": 5
+  },
+  {
+    "Id": 71,
+    "Name": "Craig Dawson",
+    "TeamId": 18,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 72,
+    "Name": "Curtis Jones",
+    "TeamId": 10,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 73,
+    "Name": "Dale Stephens",
+    "TeamId": 4,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 74,
+    "Name": "Dan Gosling",
+    "TeamId": 3,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 75,
+    "Name": "Dani Ceballos",
+    "TeamId": 1,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 76,
+    "Name": "Daniel James",
+    "TeamId": 12,
+    "Goals": 3,
+    "Assists": 6
+  },
+  {
+    "Id": 77,
+    "Name": "Daniel Podence",
+    "TeamId": 20,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 78,
+    "Name": "Danny Ings",
+    "TeamId": 16,
+    "Goals": 22,
+    "Assists": 2
+  },
+  {
+    "Id": 79,
+    "Name": "Danny Welbeck",
+    "TeamId": 18,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 80,
+    "Name": "Daryl Janmaat",
+    "TeamId": 18,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 81,
+    "Name": "David Brooks",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 82,
+    "Name": "David Luiz",
+    "TeamId": 1,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 83,
+    "Name": "David McGoldrick",
+    "TeamId": 15,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 84,
+    "Name": "David Silva",
+    "TeamId": 11,
+    "Goals": 5,
+    "Assists": 10
+  },
+  {
+    "Id": 85,
+    "Name": "Davy Propper",
+    "TeamId": 4,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 86,
+    "Name": "DeAndre Yedlin",
+    "TeamId": 13,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 87,
+    "Name": "Declan Rice",
+    "TeamId": 19,
+    "Goals": 1,
+    "Assists": 3
+  },
+  {
+    "Id": 88,
+    "Name": "Dejan Lovren",
+    "TeamId": 10,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 89,
+    "Name": "Dele Alli",
+    "TeamId": 17,
+    "Goals": 8,
+    "Assists": 4
+  },
+  {
+    "Id": 90,
+    "Name": "Demarai Gray",
+    "TeamId": 9,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 91,
+    "Name": "Dennis Praet",
+    "TeamId": 9,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 92,
+    "Name": "Dennis Srbeny",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 93,
+    "Name": "Diego Rico",
+    "TeamId": 3,
+    "Goals": 0,
+    "Assists": 4
+  },
+  {
+    "Id": 94,
+    "Name": "Diogo Jota",
+    "TeamId": 20,
+    "Goals": 7,
+    "Assists": 1
+  },
+  {
+    "Id": 95,
+    "Name": "Divock Origi",
+    "TeamId": 10,
+    "Goals": 4,
+    "Assists": 1
+  },
+  {
+    "Id": 96,
+    "Name": "Djibril Sidibe",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 4
+  },
+  {
+    "Id": 97,
+    "Name": "Dominic Calvert-Lewin",
+    "TeamId": 8,
+    "Goals": 13,
+    "Assists": 1
+  },
+  {
+    "Id": 98,
+    "Name": "Dominic Solanke",
+    "TeamId": 3,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 99,
+    "Name": "Douglas Luiz",
+    "TeamId": 2,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 100,
+    "Name": "Dwight Gayle",
+    "TeamId": 13,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 101,
+    "Name": "Dwight McNeil",
+    "TeamId": 5,
+    "Goals": 2,
+    "Assists": 6
+  },
+  {
+    "Id": 102,
+    "Name": "Eddie Nketiah",
+    "TeamId": 1,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 103,
+    "Name": "Emil Krafth",
+    "TeamId": 13,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 104,
+    "Name": "Emiliano Buendia",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 7
+  },
+  {
+    "Id": 105,
+    "Name": "Enda Stevens",
+    "TeamId": 15,
+    "Goals": 2,
+    "Assists": 4
+  },
+  {
+    "Id": 106,
+    "Name": "Eric Dier",
+    "TeamId": 17,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 107,
+    "Name": "Erik Lamela",
+    "TeamId": 17,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 108,
+    "Name": "Erik Pieters",
+    "TeamId": 5,
+    "Goals": 0,
+    "Assists": 4
+  },
+  {
+    "Id": 109,
+    "Name": "Etienne Capoue",
+    "TeamId": 18,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 110,
+    "Name": "Etienne Capoue",
+    "TeamId": 18,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 111,
+    "Name": "Ezri Konsa Ngoyo",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 112,
+    "Name": "Fabian Balbuena",
+    "TeamId": 19,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 113,
+    "Name": "Fabian Schar",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 114,
+    "Name": "Fabinho",
+    "TeamId": 10,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 115,
+    "Name": "Federico Fernandez",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 116,
+    "Name": "Felipe Anderson",
+    "TeamId": 19,
+    "Goals": 1,
+    "Assists": 4
+  },
+  {
+    "Id": 117,
+    "Name": "Fernandinho",
+    "TeamId": 11,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 118,
+    "Name": "Fikayo Tomori",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 119,
+    "Name": "Florian Lejeune",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 120,
+    "Name": "Florin Andone",
+    "TeamId": 4,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 121,
+    "Name": "Frederic Guilbert",
+    "TeamId": 2,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 122,
+    "Name": "Gabriel Jesus",
+    "TeamId": 11,
+    "Goals": 12,
+    "Assists": 7
+  },
+  {
+    "Id": 123,
+    "Name": "Gabriel Martinelli",
+    "TeamId": 1,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 124,
+    "Name": "Gary Cahill",
+    "TeamId": 7,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 125,
+    "Name": "George Baldock",
+    "TeamId": 15,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 126,
+    "Name": "Georginio Wijnaldum",
+    "TeamId": 10,
+    "Goals": 4,
+    "Assists": 0
+  },
+  {
+    "Id": 127,
+    "Name": "Gerard Deulofeu",
+    "TeamId": 18,
+    "Goals": 4,
+    "Assists": 5
+  },
+  {
+    "Id": 128,
+    "Name": "Giovani Lo Celso",
+    "TeamId": 17,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 129,
+    "Name": "Glenn Murray",
+    "TeamId": 4,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 130,
+    "Name": "Granit Xhaka",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 131,
+    "Name": "Gylfi Sigurdsson",
+    "TeamId": 8,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 132,
+    "Name": "Hamza Choudhury",
+    "TeamId": 9,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 133,
+    "Name": "Harry Kane",
+    "TeamId": 17,
+    "Goals": 18,
+    "Assists": 2
+  },
+  {
+    "Id": 134,
+    "Name": "Harry Maguire",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 135,
+    "Name": "Harry Wilson",
+    "TeamId": 3,
+    "Goals": 7,
+    "Assists": 0
+  },
+  {
+    "Id": 136,
+    "Name": "Harvey Barnes",
+    "TeamId": 9,
+    "Goals": 6,
+    "Assists": 8
+  },
+  {
+    "Id": 137,
+    "Name": "Hector Bellerin",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 138,
+    "Name": "Heung-min Son",
+    "TeamId": 17,
+    "Goals": 11,
+    "Assists": 10
+  },
+  {
+    "Id": 139,
+    "Name": "?lkay Gundogan",
+    "TeamId": 11,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 140,
+    "Name": "Isaac Hayden",
+    "TeamId": 13,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 141,
+    "Name": "Isma�la Sarr",
+    "TeamId": 18,
+    "Goals": 5,
+    "Assists": 4
+  },
+  {
+    "Id": 142,
+    "Name": "Issa Diop",
+    "TeamId": 19,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 143,
+    "Name": "Jack Grealish",
+    "TeamId": 2,
+    "Goals": 8,
+    "Assists": 5
+  },
+  {
+    "Id": 144,
+    "Name": "Jack O'Connell",
+    "TeamId": 15,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 145,
+    "Name": "Jack Stacey",
+    "TeamId": 3,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 146,
+    "Name": "Jack Stephens",
+    "TeamId": 16,
+    "Goals": 1,
+    "Assists": 3
+  },
+  {
+    "Id": 147,
+    "Name": "Jamaal Lascelles",
+    "TeamId": 13,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 148,
+    "Name": "Jamal Lewis",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 149,
+    "Name": "James Justin",
+    "TeamId": 9,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 150,
+    "Name": "James Maddison",
+    "TeamId": 9,
+    "Goals": 6,
+    "Assists": 3
+  },
+  {
+    "Id": 151,
+    "Name": "James McArthur",
+    "TeamId": 7,
+    "Goals": 0,
+    "Assists": 3
+  },
+  {
+    "Id": 152,
+    "Name": "James Milner",
+    "TeamId": 10,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 153,
+    "Name": "James Tarkowski",
+    "TeamId": 5,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 154,
+    "Name": "James Tomkins",
+    "TeamId": 7,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 155,
+    "Name": "James Ward-Prowse",
+    "TeamId": 16,
+    "Goals": 5,
+    "Assists": 3
+  },
+  {
+    "Id": 156,
+    "Name": "Jamie Vardy",
+    "TeamId": 9,
+    "Goals": 23,
+    "Assists": 5
+  },
+  {
+    "Id": 157,
+    "Name": "Jan Bednarek",
+    "TeamId": 16,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 158,
+    "Name": "Jan Vertonghen",
+    "TeamId": 17,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 159,
+    "Name": "Jannik Vestergaard",
+    "TeamId": 16,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 160,
+    "Name": "Jarrod Bowen",
+    "TeamId": 19,
+    "Goals": 1,
+    "Assists": 4
+  },
+  {
+    "Id": 161,
+    "Name": "Javier Hernandez",
+    "TeamId": 19,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 162,
+    "Name": "Javier Manquillo",
+    "TeamId": 13,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 163,
+    "Name": "Jay Rodriguez",
+    "TeamId": 5,
+    "Goals": 8,
+    "Assists": 1
+  },
+  {
+    "Id": 164,
+    "Name": "Jeff Hendrick",
+    "TeamId": 5,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 165,
+    "Name": "Jefferson Lerma",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 166,
+    "Name": "Jeffrey Schlupp",
+    "TeamId": 7,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 167,
+    "Name": "Jesse Lingard",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 168,
+    "Name": "Jetro Willems",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 169,
+    "Name": "Joao Moutinho",
+    "TeamId": 20,
+    "Goals": 1,
+    "Assists": 6
+  },
+  {
+    "Id": 170,
+    "Name": "Joe Willock",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 171,
+    "Name": "Joel Matip",
+    "TeamId": 10,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 172,
+    "Name": "Joelinton",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 173,
+    "Name": "Johann Gudmundsson",
+    "TeamId": 5,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 174,
+    "Name": "John Egan",
+    "TeamId": 15,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 175,
+    "Name": "John Fleck",
+    "TeamId": 15,
+    "Goals": 5,
+    "Assists": 2
+  },
+  {
+    "Id": 176,
+    "Name": "John Lundstram",
+    "TeamId": 15,
+    "Goals": 5,
+    "Assists": 3
+  },
+  {
+    "Id": 177,
+    "Name": "John McGinn",
+    "TeamId": 2,
+    "Goals": 3,
+    "Assists": 3
+  },
+  {
+    "Id": 178,
+    "Name": "Jonjo Shelvey",
+    "TeamId": 13,
+    "Goals": 6,
+    "Assists": 2
+  },
+  {
+    "Id": 179,
+    "Name": "Jonny",
+    "TeamId": 20,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 180,
+    "Name": "Jonny Evans",
+    "TeamId": 9,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 181,
+    "Name": "Jordan Ayew",
+    "TeamId": 7,
+    "Goals": 9,
+    "Assists": 2
+  },
+  {
+    "Id": 182,
+    "Name": "Jordan Henderson",
+    "TeamId": 10,
+    "Goals": 4,
+    "Assists": 5
+  },
+  {
+    "Id": 183,
+    "Name": "Jorginho",
+    "TeamId": 6,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 184,
+    "Name": "Joshua King",
+    "TeamId": 3,
+    "Goals": 6,
+    "Assists": 4
+  },
+  {
+    "Id": 185,
+    "Name": "Josip Drmic",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 186,
+    "Name": "Jota",
+    "TeamId": 2,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 187,
+    "Name": "Juan Mata",
+    "TeamId": 12,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 188,
+    "Name": "Junior Stanislas",
+    "TeamId": 3,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 189,
+    "Name": "Kelechi Iheanacho",
+    "TeamId": 9,
+    "Goals": 5,
+    "Assists": 3
+  },
+  {
+    "Id": 190,
+    "Name": "Kenny McLean",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 191,
+    "Name": "Kevin Danso",
+    "TeamId": 16,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 192,
+    "Name": "Kevin De Bruyne",
+    "TeamId": 11,
+    "Goals": 13,
+    "Assists": 20
+  },
+  {
+    "Id": 193,
+    "Name": "Kieran Tierney",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 194,
+    "Name": "Kortney Hause",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 195,
+    "Name": "Kyle Walker",
+    "TeamId": 11,
+    "Goals": 1,
+    "Assists": 4
+  },
+  {
+    "Id": 196,
+    "Name": "Leander Dendoncker",
+    "TeamId": 20,
+    "Goals": 4,
+    "Assists": 0
+  },
+  {
+    "Id": 197,
+    "Name": "Leandro Trossard",
+    "TeamId": 4,
+    "Goals": 5,
+    "Assists": 3
+  },
+  {
+    "Id": 198,
+    "Name": "Lewis Dunk",
+    "TeamId": 4,
+    "Goals": 3,
+    "Assists": 3
+  },
+  {
+    "Id": 199,
+    "Name": "Lucas Digne",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 7
+  },
+  {
+    "Id": 200,
+    "Name": "Lucas Moura",
+    "TeamId": 17,
+    "Goals": 4,
+    "Assists": 4
+  },
+  {
+    "Id": 201,
+    "Name": "Lucas Torreira",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 202,
+    "Name": "Luka Milivojevic",
+    "TeamId": 7,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 203,
+    "Name": "Luke Thomas",
+    "TeamId": 9,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 204,
+    "Name": "Lys Mousset",
+    "TeamId": 15,
+    "Goals": 6,
+    "Assists": 4
+  },
+  {
+    "Id": 205,
+    "Name": "Mahmoud Trezeguet",
+    "TeamId": 2,
+    "Goals": 6,
+    "Assists": 1
+  },
+  {
+    "Id": 206,
+    "Name": "Manuel Lanzini",
+    "TeamId": 19,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 207,
+    "Name": "Marc Albrighton",
+    "TeamId": 9,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 208,
+    "Name": "Marcos Alonso",
+    "TeamId": 6,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 209,
+    "Name": "Marcus Rashford",
+    "TeamId": 12,
+    "Goals": 17,
+    "Assists": 7
+  },
+  {
+    "Id": 210,
+    "Name": "Mario Vrancic",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 211,
+    "Name": "Mark Noble",
+    "TeamId": 19,
+    "Goals": 4,
+    "Assists": 3
+  },
+  {
+    "Id": 212,
+    "Name": "Martin Kelly",
+    "TeamId": 7,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 213,
+    "Name": "Mart�n Montoya",
+    "TeamId": 4,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 214,
+    "Name": "Mason Greenwood",
+    "TeamId": 12,
+    "Goals": 10,
+    "Assists": 1
+  },
+  {
+    "Id": 215,
+    "Name": "Mason Holgate",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 3
+  },
+  {
+    "Id": 216,
+    "Name": "Mason Mount",
+    "TeamId": 6,
+    "Goals": 7,
+    "Assists": 5
+  },
+  {
+    "Id": 217,
+    "Name": "Matej Vydra",
+    "TeamId": 5,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 218,
+    "Name": "Mateo Kovacic",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 3
+  },
+  {
+    "Id": 219,
+    "Name": "Matt Doherty",
+    "TeamId": 20,
+    "Goals": 4,
+    "Assists": 3
+  },
+  {
+    "Id": 220,
+    "Name": "Matt Ritchie",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 221,
+    "Name": "Matt Targett",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 222,
+    "Name": "Matteo Guendouzi",
+    "TeamId": 1,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 223,
+    "Name": "Matthew Longstaff",
+    "TeamId": 13,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 224,
+    "Name": "Matthew Lowton",
+    "TeamId": 5,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 225,
+    "Name": "Max Aarons",
+    "TeamId": 14,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 226,
+    "Name": "Mbwana Samatta",
+    "TeamId": 2,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 227,
+    "Name": "Mesut Ozil",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 228,
+    "Name": "Michael Keane",
+    "TeamId": 8,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 229,
+    "Name": "Michael Obafemi",
+    "TeamId": 16,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 230,
+    "Name": "Michail Antonio",
+    "TeamId": 19,
+    "Goals": 10,
+    "Assists": 3
+  },
+  {
+    "Id": 231,
+    "Name": "Michy Batshuayi",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 232,
+    "Name": "Miguel Almiron",
+    "TeamId": 13,
+    "Goals": 4,
+    "Assists": 2
+  },
+  {
+    "Id": 233,
+    "Name": "Mohamed Salah",
+    "TeamId": 10,
+    "Goals": 19,
+    "Assists": 10
+  },
+  {
+    "Id": 234,
+    "Name": "Moise Kean",
+    "TeamId": 8,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 235,
+    "Name": "Moussa Djenepo",
+    "TeamId": 16,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 236,
+    "Name": "Moussa Sissoko",
+    "TeamId": 17,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 237,
+    "Name": "Naby Ke�ta",
+    "TeamId": 10,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 238,
+    "Name": "Nathan Ake",
+    "TeamId": 3,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 239,
+    "Name": "Nathan Redmond",
+    "TeamId": 16,
+    "Goals": 4,
+    "Assists": 4
+  },
+  {
+    "Id": 240,
+    "Name": "Nathaniel Chalobah",
+    "TeamId": 18,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 241,
+    "Name": "Neal Maupay",
+    "TeamId": 4,
+    "Goals": 10,
+    "Assists": 3
+  },
+  {
+    "Id": 242,
+    "Name": "Nemanja Matic",
+    "TeamId": 12,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 243,
+    "Name": "N'Golo Kante",
+    "TeamId": 6,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 244,
+    "Name": "Nicolas Otamendi",
+    "TeamId": 11,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 245,
+    "Name": "Nicolas Pepe",
+    "TeamId": 1,
+    "Goals": 5,
+    "Assists": 5
+  },
+  {
+    "Id": 246,
+    "Name": "Oliver McBurnie",
+    "TeamId": 15,
+    "Goals": 6,
+    "Assists": 0
+  },
+  {
+    "Id": 247,
+    "Name": "Oliver Norwood",
+    "TeamId": 15,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 248,
+    "Name": "Olivier Giroud",
+    "TeamId": 6,
+    "Goals": 8,
+    "Assists": 0
+  },
+  {
+    "Id": 249,
+    "Name": "Onel Hernandez",
+    "TeamId": 14,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 250,
+    "Name": "Pablo Fornals",
+    "TeamId": 19,
+    "Goals": 2,
+    "Assists": 5
+  },
+  {
+    "Id": 251,
+    "Name": "Pascal Gross",
+    "TeamId": 4,
+    "Goals": 2,
+    "Assists": 4
+  },
+  {
+    "Id": 252,
+    "Name": "Patrick Cutrone",
+    "TeamId": 20,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 253,
+    "Name": "Patrick van Aanholt",
+    "TeamId": 7,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 254,
+    "Name": "Paul Pogba",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 3
+  },
+  {
+    "Id": 255,
+    "Name": "Pedro",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 256,
+    "Name": "Pedro Neto",
+    "TeamId": 20,
+    "Goals": 3,
+    "Assists": 3
+  },
+  {
+    "Id": 257,
+    "Name": "Phil Bardsley",
+    "TeamId": 5,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 258,
+    "Name": "Phil Foden",
+    "TeamId": 11,
+    "Goals": 5,
+    "Assists": 2
+  },
+  {
+    "Id": 259,
+    "Name": "Philip Billing",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 260,
+    "Name": "Pierre-Emerick Aubameyang",
+    "TeamId": 1,
+    "Goals": 22,
+    "Assists": 3
+  },
+  {
+    "Id": 261,
+    "Name": "Pierre-Emile Hojbjerg",
+    "TeamId": 16,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 263,
+    "Name": "Raheem Sterling",
+    "TeamId": 11,
+    "Goals": 20,
+    "Assists": 1
+  },
+  {
+    "Id": 264,
+    "Name": "Raul Jimenez",
+    "TeamId": 20,
+    "Goals": 17,
+    "Assists": 6
+  },
+  {
+    "Id": 265,
+    "Name": "Reece James",
+    "TeamId": 6,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 266,
+    "Name": "Reiss Nelson",
+    "TeamId": 1,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 267,
+    "Name": "Ricardo Pereira",
+    "TeamId": 9,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 268,
+    "Name": "Richarlison",
+    "TeamId": 8,
+    "Goals": 13,
+    "Assists": 3
+  },
+  {
+    "Id": 269,
+    "Name": "Riyad Mahrez",
+    "TeamId": 11,
+    "Goals": 11,
+    "Assists": 9
+  },
+  {
+    "Id": 270,
+    "Name": "Robbie Brady",
+    "TeamId": 5,
+    "Goals": 1,
+    "Assists": 2
+  },
+  {
+    "Id": 271,
+    "Name": "Robert Snodgrass",
+    "TeamId": 19,
+    "Goals": 5,
+    "Assists": 5
+  },
+  {
+    "Id": 272,
+    "Name": "Roberto Firmino",
+    "TeamId": 10,
+    "Goals": 8,
+    "Assists": 7
+  },
+  {
+    "Id": 273,
+    "Name": "Roberto Pereyra",
+    "TeamId": 18,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 274,
+    "Name": "Rodri",
+    "TeamId": 11,
+    "Goals": 3,
+    "Assists": 2
+  },
+  {
+    "Id": 275,
+    "Name": "Romain Saiss",
+    "TeamId": 20,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 276,
+    "Name": "Ross Barkley",
+    "TeamId": 6,
+    "Goals": 1,
+    "Assists": 4
+  },
+  {
+    "Id": 277,
+    "Name": "Ruben Loftus-Cheek",
+    "TeamId": 6,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 278,
+    "Name": "R�ben Neves",
+    "TeamId": 20,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 279,
+    "Name": "Ryan Bertrand",
+    "TeamId": 16,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 280,
+    "Name": "Ryan Fraser",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 4
+  },
+  {
+    "Id": 281,
+    "Name": "Ryan Fredericks",
+    "TeamId": 19,
+    "Goals": 0,
+    "Assists": 3
+  },
+  {
+    "Id": 282,
+    "Name": "Sadio Mane",
+    "TeamId": 10,
+    "Goals": 18,
+    "Assists": 7
+  },
+  {
+    "Id": 283,
+    "Name": "Sander Berge",
+    "TeamId": 15,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 284,
+    "Name": "Scott Dann",
+    "TeamId": 7,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 285,
+    "Name": "Scott McTominay",
+    "TeamId": 12,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 286,
+    "Name": "Sead Kolasinac",
+    "TeamId": 1,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 287,
+    "Name": "Seamus Coleman",
+    "TeamId": 8,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 288,
+    "Name": "Sean Longstaff",
+    "TeamId": 13,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 289,
+    "Name": "Sebastien Haller",
+    "TeamId": 19,
+    "Goals": 7,
+    "Assists": 1
+  },
+  {
+    "Id": 290,
+    "Name": "Serge Aurier",
+    "TeamId": 17,
+    "Goals": 1,
+    "Assists": 5
+  },
+  {
+    "Id": 291,
+    "Name": "Sergio Aguero",
+    "TeamId": 11,
+    "Goals": 16,
+    "Assists": 3
+  },
+  {
+    "Id": 292,
+    "Name": "Shane Duffy",
+    "TeamId": 4,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 293,
+    "Name": "Shane Long",
+    "TeamId": 16,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 294,
+    "Name": "Shkodran Mustafi",
+    "TeamId": 1,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 295,
+    "Name": "Sofiane Boufal",
+    "TeamId": 16,
+    "Goals": 0,
+    "Assists": 2
+  },
+  {
+    "Id": 296,
+    "Name": "Sokratis Papastathopoulos",
+    "TeamId": 1,
+    "Goals": 2,
+    "Assists": 0
+  },
+  {
+    "Id": 297,
+    "Name": "Solomon March",
+    "TeamId": 4,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 298,
+    "Name": "Steve Cook",
+    "TeamId": 3,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 299,
+    "Name": "Steven Bergwijn",
+    "TeamId": 17,
+    "Goals": 3,
+    "Assists": 1
+  },
+  {
+    "Id": 300,
+    "Name": "Stuart Armstrong",
+    "TeamId": 16,
+    "Goals": 5,
+    "Assists": 3
+  },
+  {
+    "Id": 301,
+    "Name": "Tammy Abraham",
+    "TeamId": 6,
+    "Goals": 15,
+    "Assists": 3
+  },
+  {
+    "Id": 302,
+    "Name": "Tanguy NDomb�l�",
+    "TeamId": 17,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 303,
+    "Name": "Tariq Lamptey",
+    "TeamId": 4,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 304,
+    "Name": "Teemu Pukki",
+    "TeamId": 14,
+    "Goals": 11,
+    "Assists": 3
+  },
+  {
+    "Id": 305,
+    "Name": "Theo Walcott",
+    "TeamId": 8,
+    "Goals": 2,
+    "Assists": 3
+  },
+  {
+    "Id": 306,
+    "Name": "Toby Alderweireld",
+    "TeamId": 17,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 307,
+    "Name": "Todd Cantwell",
+    "TeamId": 14,
+    "Goals": 6,
+    "Assists": 2
+  },
+  {
+    "Id": 308,
+    "Name": "Tom Cleverley",
+    "TeamId": 18,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 309,
+    "Name": "Tom Davies",
+    "TeamId": 8,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 310,
+    "Name": "Tomas Soucek",
+    "TeamId": 19,
+    "Goals": 3,
+    "Assists": 0
+  },
+  {
+    "Id": 311,
+    "Name": "Trent Alexander-Arnold",
+    "TeamId": 10,
+    "Goals": 4,
+    "Assists": 13
+  },
+  {
+    "Id": 312,
+    "Name": "Troy Deeney",
+    "TeamId": 18,
+    "Goals": 10,
+    "Assists": 2
+  },
+  {
+    "Id": 313,
+    "Name": "Tyrone Mings",
+    "TeamId": 2,
+    "Goals": 2,
+    "Assists": 2
+  },
+  {
+    "Id": 314,
+    "Name": "Valentino Lazaro",
+    "TeamId": 13,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 315,
+    "Name": "Victor Lindelof",
+    "TeamId": 12,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 316,
+    "Name": "Virgil van Dijk",
+    "TeamId": 10,
+    "Goals": 5,
+    "Assists": 1
+  },
+  {
+    "Id": 317,
+    "Name": "Wesley",
+    "TeamId": 2,
+    "Goals": 5,
+    "Assists": 1
+  },
+  {
+    "Id": 318,
+    "Name": "Wilfred Ndidi",
+    "TeamId": 9,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 319,
+    "Name": "Wilfried Zaha",
+    "TeamId": 7,
+    "Goals": 4,
+    "Assists": 3
+  },
+  {
+    "Id": 320,
+    "Name": "Will Hughes",
+    "TeamId": 18,
+    "Goals": 1,
+    "Assists": 1
+  },
+  {
+    "Id": 321,
+    "Name": "Will Smallbone",
+    "TeamId": 16,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 322,
+    "Name": "William Smallbone",
+    "TeamId": 16,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 323,
+    "Name": "Willian",
+    "TeamId": 6,
+    "Goals": 9,
+    "Assists": 7
+  },
+  {
+    "Id": 324,
+    "Name": "Willy Boly",
+    "TeamId": 20,
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Id": 325,
+    "Name": "Xherdan Shaqiri",
+    "TeamId": 10,
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Id": 326,
+    "Name": "Yerry Mina",
+    "TeamId": 8,
+    "Goals": 2,
+    "Assists": 1
+  },
+  {
+    "Id": 327,
+    "Name": "Youri Tielemans",
+    "TeamId": 9,
+    "Goals": 3,
+    "Assists": 6
+  },
+  {
+    "Id": 328,
+    "Name": "Yves Bissouma",
+    "TeamId": 4,
+    "Goals": 1,
+    "Assists": 0
+  }
+]
