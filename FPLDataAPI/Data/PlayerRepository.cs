@@ -23,14 +23,18 @@ namespace FPLDataAPI.Data
             _httpContextAccessor = httpContextAccessor;
         }
 
-        public async Task<List<Player>> GetPlayers(PaginationDTO pagination)
+        public async Task<List<Player>> GetPlayers(PlayerParameters playerParams)
         {
-            var queryable = _context.Players.AsQueryable();
+            var queryable = _context.Players
+                .Where(p => p.Goals >= playerParams.MinGoals)
+                .Where(p => p.Assists >= playerParams.MinAssists)
+                .OrderByDescending(p => p.Goals).ThenByDescending(p => p.Assists)
+                .AsQueryable();
 
             // add custom headers to the response to help clients with pagination
-            await _httpContextAccessor.HttpContext.AddPaginationParamsToResponse(queryable, pagination.RecordsPerPage);
+            await _httpContextAccessor.HttpContext.AddPaginationParamsToResponse(queryable, playerParams.RecordsPerPage);
 
-            var players = await queryable.Paginate(pagination)
+            var players = await queryable.Paginate(playerParams)
                 .Include(p => p.TeamName)
                 .ToListAsync();
 

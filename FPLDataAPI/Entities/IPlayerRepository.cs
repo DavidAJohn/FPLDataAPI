@@ -8,7 +8,7 @@ namespace FPLDataAPI.Entities
 {
     public interface IPlayerRepository
     {
-        Task<List<Player>> GetPlayers(PaginationDTO pagination);
+        Task<List<Player>> GetPlayers(PlayerParameters playerParams);
         Task<Player> GetPlayerById(int id);
     }
 }

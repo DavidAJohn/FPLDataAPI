@@ -28,9 +28,14 @@ namespace FPLDataAPI.Controllers
 
         // GET: api/Players
         [HttpGet]
-        public async Task<ActionResult<List<PlayerDTO>>> GetPlayers([FromQuery] PaginationDTO pagination)
+        public async Task<ActionResult<List<PlayerDTO>>> GetPlayers([FromQuery] PlayerParameters playerParams)
         {
-            var players = await _repo.GetPlayers(pagination);
+            if (playerParams.MinGoals < 0 || playerParams.MinAssists < 0)
+            {
+                return BadRequest("Min goals and assists can NOT be less than zero");
+            }
+
+            var players = await _repo.GetPlayers(playerParams);
             var playersDTO = _mapper.Map<List<PlayerDTO>>(players);
             _logger.LogInformation($"Returned {players.Count} players from database");
 

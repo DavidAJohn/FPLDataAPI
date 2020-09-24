@@ -1,4 +1,5 @@
 ﻿using FPLDataAPI.DTOs;
+using FPLDataAPI.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +9,11 @@ namespace FPLDataAPI.Helpers
 {
     public static class QueryableExtensions
     {
-        public static IQueryable<T> Paginate<T>(this IQueryable<T> queryable, PaginationDTO pagination)
+        public static IQueryable<T> Paginate<T>(this IQueryable<T> queryable, PlayerParameters playerParams)
         {
             return queryable
-                .Skip((pagination.Page - 1) * pagination.RecordsPerPage)
-                .Take(pagination.RecordsPerPage);
+                .Skip((playerParams.PageNumber - 1) * playerParams.RecordsPerPage)
+                .Take(playerParams.RecordsPerPage);
         }
     }
 }
