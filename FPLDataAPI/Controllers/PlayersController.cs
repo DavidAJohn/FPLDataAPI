@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using FPLDataAPI;
 using FPLDataAPI.Entities;
 using AutoMapper;
 using FPLDataAPI.DTOs;
 using Microsoft.Extensions.Logging;
-using FPLDataAPI.Data;
+using System;
 
 namespace FPLDataAPI.Controllers
 {
@@ -33,10 +28,12 @@ namespace FPLDataAPI.Controllers
 
         // GET: api/Players
         [HttpGet]
-        public async Task<ActionResult<List<PlayerDTO>>> GetPlayers()
+        public async Task<ActionResult<List<PlayerDTO>>> GetPlayers([FromQuery] PaginationDTO pagination)
         {
-            var players = await _repo.GetPlayers();
+            var players = await _repo.GetPlayers(pagination);
             var playersDTO = _mapper.Map<List<PlayerDTO>>(players);
+            _logger.LogInformation($"Returned {players.Count} players from database");
+
             return playersDTO;
         }
 
@@ -46,12 +43,11 @@ namespace FPLDataAPI.Controllers
         {
             var player = await _repo.GetPlayerById(id);
 
-            if (player == null)
-            {
-                return NotFound();
-            }
+            if (player == null) { return NotFound(); }
 
             var playerDTO = _mapper.Map<PlayerDTO>(player);
+            _logger.LogInformation($"Returned '{player.Name}' (id: {player.Id}) from database");
+
             return playerDTO;
         }
 

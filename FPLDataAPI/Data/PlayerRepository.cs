@@ -1,10 +1,13 @@
 ﻿using AutoMapper;
 using FPLDataAPI.DTOs;
 using FPLDataAPI.Entities;
+using FPLDataAPI.Helpers;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace FPLDataAPI.Data
@@ -12,18 +15,25 @@ namespace FPLDataAPI.Data
     public class PlayerRepository : IPlayerRepository
     {
         private readonly AppDbContext _context;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public PlayerRepository(AppDbContext context)
+        public PlayerRepository(AppDbContext context, IHttpContextAccessor httpContextAccessor)
         {
             _context = context;
+            _httpContextAccessor = httpContextAccessor;
         }
 
-        public async Task<List<Player>> GetPlayers()
+        public async Task<List<Player>> GetPlayers(PaginationDTO pagination)
         {
-            var players = await _context.Players
+            var queryable = _context.Players.AsQueryable();
+
+            // add custom headers to the response to help clients with pagination
+            await _httpContextAccessor.HttpContext.AddPaginationParamsToResponse(queryable, pagination.RecordsPerPage);
+
+            var players = await queryable.Paginate(pagination)
                 .Include(p => p.TeamName)
-                .Take(10)
                 .ToListAsync();
+
             return players;
         }
 
