@@ -9,6 +9,7 @@ namespace FPLDataAPI.Entities
     {
         public int MinGoals { get; set; } = 0;
         public int MinAssists { get; set; } = 0;
+        public string Name { get; set; }
 
     }
 }

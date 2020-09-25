@@ -31,6 +31,9 @@ namespace FPLDataAPI.Data
                 .OrderByDescending(p => p.Goals).ThenByDescending(p => p.Assists)
                 .AsQueryable();
 
+            // add the option to search by player name
+            SearchByName(ref queryable, playerParams.Name);
+
             // add custom headers to the response to help clients with pagination
             await _httpContextAccessor.HttpContext.AddPaginationParamsToResponse(queryable, playerParams.RecordsPerPage);
 
@@ -49,5 +52,12 @@ namespace FPLDataAPI.Data
             return player;
         }
 
+        private void SearchByName(ref IQueryable<Player> players, string playerName)
+        {
+            if (!players.Any() || string.IsNullOrWhiteSpace(playerName))
+                return;
+
+            players = players.Where(p => p.Name.ToLower().Contains(playerName.Trim().ToLower()));
+        }
     }
 }
